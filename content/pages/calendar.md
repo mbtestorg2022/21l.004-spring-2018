@@ -4,24 +4,267 @@ title: Calendar
 uid: 8a8a4503-b6f2-a9fe-7425-59e8ce875be2
 ---
 
-| Ses # | Topic | Key dates |
-| --- | --- | --- |
-| 1 | Recognizing patterns | &nbsp; |
-| 2 | Making poetry in English | 1 page introduction due |
-| 3 | From evidence to analysis | &nbsp; |
-| 4 | Etymologies and rhythms | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} Guest lecture: [Shigeru Miyagawa, Senior Associate Dean of Open Learning at MIT](http://www.shigerumiyagawa.com/) {{< br >}}{{< br >}} Language as system(s) {{< br >}}{{< br >}}  | &nbsp; |
-| 6 | The shape of sentences and the shape of information | 3 pp. informal essay due |
-| 7 | Reading line breaks | 3 pp. informal essay due |
-| 8 | Fixed forms, rhymed and otherwise | &nbsp; |
-| 9 |  {{< br >}}{{< br >}} Guest lecture: [Nick Montfort, Poet and MIT Professor](http://nickm.com) {{< br >}}{{< br >}} New work in computer-generated poetry {{< br >}}{{< br >}}  | 3 pp. informal essay due |
-| 10 | Sound patterns and sense | &nbsp; |
-| 11 | Reading a difficult poem (1) | Presentation on part of an assigned poem |
-| 12 | Reading a difficult poem (2) | 5 pp. revision of and expansion of an informal paper due |
-| 13 | How do metaphors work? | &nbsp; |
-| 14 | Guest lecture: [Tyehimba Jess, Poet](https://www.poetryfoundation.org/poets/tyehimba-jess) | &nbsp; |
-| 15 | How does allusion work? (History) | 5 pp. report on "The Waste Land" |
-| 16 | Guest lecture: [Charles Shadle, MIT Lecturer](https://mta.mit.edu/person/charles-shadle) | &nbsp; |
-| 17 | Guest lecture: [Kimberly Brown, MIT Visiting Professor](https://lit.mit.edu/people/kimberly-j-brown/) | 4–5 pp. analytic essay on reading, discussion, and book due |
-| 18 |  {{< br >}}{{< br >}} Guest lecture: [Martha Collins, Poet](http://marthacollinspoet.com/) {{< br >}}{{< br >}} Translating Poetry {{< br >}}{{< br >}}  | &nbsp; |
-| 19–23 | Student-initiated readings and presentations | 5–6 pp. final presentation report due (drawing on work from your student-initiated class)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Ses #
+{{< thclose >}}
+{{< thopen >}}
+Topic
+{{< thclose >}}
+{{< thopen >}}
+Key dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Recognizing patterns
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Making poetry in English
+{{< tdclose >}}
+{{< tdopen >}}
+1 page introduction due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+From evidence to analysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Etymologies and rhythms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Guest lecture: [Shigeru Miyagawa, Senior Associate Dean of Open Learning at MIT](http://www.shigerumiyagawa.com/)
+
+Language as system(s)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The shape of sentences and the shape of information
+{{< tdclose >}}
+{{< tdopen >}}
+3 pp. informal essay due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Reading line breaks
+{{< tdclose >}}
+{{< tdopen >}}
+3 pp. informal essay due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Fixed forms, rhymed and otherwise
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Guest lecture: [Nick Montfort, Poet and MIT Professor](http://nickm.com)
+
+New work in computer-generated poetry
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+3 pp. informal essay due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Sound patterns and sense
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Reading a difficult poem (1)
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation on part of an assigned poem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Reading a difficult poem (2)
+{{< tdclose >}}
+{{< tdopen >}}
+5 pp. revision of and expansion of an informal paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+How do metaphors work?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture: [Tyehimba Jess, Poet](https://www.poetryfoundation.org/poets/tyehimba-jess)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+How does allusion work? (History)
+{{< tdclose >}}
+{{< tdopen >}}
+5 pp. report on "The Waste Land"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture: [Charles Shadle, MIT Lecturer](https://mta.mit.edu/person/charles-shadle)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture: [Kimberly Brown, MIT Visiting Professor](https://lit.mit.edu/people/kimberly-j-brown/)
+{{< tdclose >}}
+{{< tdopen >}}
+4–5 pp. analytic essay on reading, discussion, and book due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Guest lecture: [Martha Collins, Poet](http://marthacollinspoet.com/)
+
+Translating Poetry
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19–23
+{{< tdclose >}}
+{{< tdopen >}}
+Student-initiated readings and presentations
+{{< tdclose >}}
+{{< tdopen >}}
+5–6 pp. final presentation report due (drawing on work from your student-initiated class) 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
